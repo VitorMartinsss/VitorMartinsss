@@ -12,7 +12,7 @@ size-adjust: 109%;
   fill: #00ff88;
   animation: blink 1s steps(1) infinite;
 }
-
+.text { fill:#3fb950; letter-spacing:1px; }
 @keyframes blink {
   50% { opacity: 0; }
 }
@@ -74,6 +74,37 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">looky#0158</tspan>
 <tspan x="390" y="450" class="cc">. </tspan>
 <tspan x="390" y="470" class="cc">-- Status: ACCESS GRANTED</tspan>
+
 </text>
-<rect x="390" y="490" width="14" height="18" class="cursor glow"/>
+<!-- TYPING EFFECT -->
+<defs>
+  <clipPath id="typingClip">
+    <rect x="390" y="465" width="0" height="30">
+      <animate attributeName="width"
+        values="0;620;620;0"
+        keyTimes="0;0.45;0.7;1"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+</defs>
+
+<text x="390"
+      y="490"
+      class="text"
+      clip-path="url(#typingClip)">
+sudo nmap --top-ports 20 192.168.1.106 -Ss
+</text>
+
+<rect x="390"
+      y="472"
+      width="10"
+      height="20"
+      class="cursor">
+  <animate attributeName="x"
+    values="390;1010;1010;390"
+    keyTimes="0;0.45;0.7;1"
+    dur="6s"
+    repeatCount="indefinite"/>
+</rect>
 </svg>
