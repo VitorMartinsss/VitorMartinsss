@@ -1,0 +1,62 @@
+<svg width="100%" height="720" viewBox="0 0 1100 720" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.bg { fill: #050a05; }
+
+.term {
+  font-family: Courier, "Courier New", monospace;
+  font-size: 16px;
+  fill: #00ff88;
+}
+
+.glow {
+  filter: drop-shadow(0 0 3px #00ff88);
+}
+
+.cursor {
+  fill: #00ff88;
+  animation: blink 1s steps(1) infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
+
+<rect class="bg" width="1100" height="720" rx="12"/>
+
+<!-- ASCII -->
+<text x="40" y="60" class="term glow">
+<tspan x="40" dy="0">██╗   ██╗██╗████████╗ ██████╗ ██████╗</tspan>
+<tspan x="40" dy="20">██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗</tspan>
+<tspan x="40" dy="20">██║   ██║██║   ██║   ██║   ██║██████╔╝</tspan>
+<tspan x="40" dy="20">╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗</tspan>
+<tspan x="40" dy="20"> ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║</tspan>
+<tspan x="40" dy="20">  ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝</tspan>
+</text>
+
+<!-- INFO -->
+<text x="40" y="210" class="term glow">
+<tspan x="40" dy="0">vitor@martins</tspan>
+<tspan x="40" dy="20">------------------------------------------------------------</tspan>
+<tspan x="40" dy="25">OS: Arch Linux / Windows 10</tspan>
+<tspan x="40" dy="20">Role: Full Stack Engineer</tspan>
+<tspan x="40" dy="20">Company: Sofyque Visual</tspan>
+<tspan x="40" dy="20">Stack: React | Next.js | TypeScript</tspan>
+<tspan x="40" dy="20">Backend: Node.js | REST APIs</tspan>
+<tspan x="40" dy="20">Database: PostgreSQL | MongoDB</tspan>
+
+<tspan x="40" dy="30">Programming: JavaScript, TypeScript</tspan>
+<tspan x="40" dy="20">Markup: HTML, CSS, JSON, PHP</tspan>
+<tspan x="40" dy="20">Languages: Portuguese, English</tspan>
+
+<tspan x="40" dy="30">Contact:</tspan>
+<tspan x="40" dy="20">GitHub: VitorMartins</tspan>
+<tspan x="40" dy="20">Email: contato@cliserv.com</tspan>
+
+<tspan x="40" dy="30">Status: ACCESS GRANTED</tspan>
+</text>
+
+<rect x="40" y="680" width="14" height="18" class="cursor glow"/>
+
+</svg>
