@@ -1,5 +1,4 @@
 ##
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Vitor+Martins;Business+Analyst;Cyber+Security" alt="Business Analyst"/>
@@ -30,7 +29,11 @@
 <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </h2>
 <br>
-<img src="https://raw.githubusercontent.com/VitorMartins/VitorMartins/main/legend_mode.svg" width="100%" />
+<a href="https://github.com/VitorMartinsss/VitorMartinsss">
+  <picture>
+    <img alt="VitorMartinsss GitHub Profile README" src="https://raw.githubusercontent.com/VitorMartinsss/VitorMartinsss/main/legend_dark.svg">
+  </picture>
+</a>
 <p align="center">
 <img src ="https://lakshay-github-readme-stats.vercel.app/api?username=VitorMartinsss&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="" height="50%" width="auto">
 <img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=VitorMartinsss&size_weight=0.5&count_weight=1&layout=compact&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="Top Languages" height="50%" width="auto">
