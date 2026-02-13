@@ -3,24 +3,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Vitor+Martins;Business+Analyst;Cyber+Security" alt="Business Analyst"/>
 </a>
 </h1>
+<pre align="center">
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</pre>
 <a href="https://github.com/VitorMartinsss/VitorMartinsss">
   <picture>
     <img alt="VitorMartinsss GitHub Profile README" src="https://raw.githubusercontent.com/VitorMartinsss/VitorMartinsss/main/legend_dark.svg">
   </picture>
 </a>
-<pre>
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
 <h1 align="center"> 
 <img src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
@@ -30,6 +26,7 @@
 <img src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src ="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
 </h1>
+<!-- Add front
 <br>
 <p align="center">
 <img src ="https://lakshay-github-readme-stats.vercel.app/api?username=VitorMartinsss&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1116&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="" height="50%" width="auto">

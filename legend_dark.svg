@@ -12,20 +12,6 @@ size-adjust: 109%;
   fill: #00ff88;
   animation: blink 1s steps(1) infinite;
 }
-.term {
-  font-family: Courier, "Courier New", monospace;
-  font-size: 16px;
-  fill: #00ff88;
-}
-
-.glow {
-  filter: drop-shadow(0 0 3px #00ff88);
-}
-
-.cursor {
-  fill: #00ff88;
-  animation: blink 1s steps(1) infinite;
-}
 
 @keyframes blink {
   50% { opacity: 0; }
@@ -88,14 +74,6 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">looky#0158</tspan>
 <tspan x="390" y="450" class="cc">. </tspan>
 <tspan x="390" y="470" class="cc">-- Status: ACCESS GRANTED</tspan>
-</text>
-<text x="640" y="490" class="term glow">
-<tspan x="590" dy="1">██╗   ██╗██╗████████╗ ██████╗ ██████╗</tspan>
-<tspan x="590" dy="8">██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗</tspan>
-<tspan x="590" dy="8">██║   ██║██║   ██║   ██║   ██║██████╔╝</tspan>
-<tspan x="590" dy="8">╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗</tspan>
-<tspan x="590" dy="8"> ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║</tspan>
-<tspan x="590" dy="8">  ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝</tspan>
 </text>
 <rect x="390" y="490" width="14" height="18" class="cursor glow"/>
 </svg>
